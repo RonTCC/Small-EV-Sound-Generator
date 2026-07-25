@@ -1,0 +1,6 @@
+
+- Arudino Mega (or better)
+- (If using other than the MEGA) An appropriate DC power supply for the Arduino
+- An audio amp to amplify the sound coming from the Arduino
+- A speaker
+- Some computer skills
