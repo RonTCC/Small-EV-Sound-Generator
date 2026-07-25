@@ -12,3 +12,4 @@ Thus, I decided to use a spare Arduino to create an adjustable sound generator.
 
 I tried a lot of sound algorithms. However, nothing sounded better than my Honda CR-V Hybrid sound. So, this Arduino sketch uses an imbedded recording of that sound.  
 
+Final note: The Mega uses PIN 9 for this audio.  If you use a different Arduino, you may need to adjust the pin setting.
