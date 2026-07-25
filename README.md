@@ -10,5 +10,5 @@ While slightly amusing, I thought it kind of rude to sneak up on people with the
 
 Thus, I decided to use a spare Arduino to create an adjustable sound generator.  
 
-I tried a lot of sound algorithms. However, nothing sounded better than my Honda CR-V Hybrid sound. So, this Arduino sketch uses an imbedded recording of that sound.  Additionally, if you are interested, I left a few of the initial algorithms in the code.
+I tried a lot of sound algorithms. However, nothing sounded better than my Honda CR-V Hybrid sound. So, this Arduino sketch uses an imbedded recording of that sound.  
 
